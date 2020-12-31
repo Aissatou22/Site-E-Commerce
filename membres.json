@@ -1,0 +1,6 @@
+[
+    {"nom":"gueye", "prenom":"aissatou", "email":"gueye.aissatou@mail.server.fr", "password": "1"},
+    {"nom":"sow", "prenom":"madicke", "email":"sow.madicke@mail.server.fr", "password": "2"},
+    {"nom":"Delune", "prenom":"Claire", "email":"claire.delune@mail.server.fr", "password": "12345"}
+    
+ ]
